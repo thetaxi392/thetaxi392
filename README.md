@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @thetaxi392!
-- 👀 I’m interested in learning all types of programming languages and web development techniques, but would like to start by becoming more than proficient in a couple. I have been working in the writing sector and have taken a keen interest in documentation and technical writing.  
-- My favorite language I'm learning about so far is JavaScript because I like making interactive websites. I also like working with Java Swing GUIs.
-- 🌱 I’m currently learning HTML5, CSS, JavaScript, jQuery, Java, PHP, MySQL, and Adobe Creative Cloud. I completed a CS in Web Development at my local Community College in the fall of 2021.
-- 💞️ I’m looking to collaborate on any types of projects that can grow my skills and teach me new things in the IT world. 
+- 👀 I’m interested in learning all types of programming languages and web development techniques, but would like to start by becoming more than proficient in a couple rather than becoming simply familiar with all of them. I have been working in the writing sector and have taken a keen interest in documentation and technical writing.  
+- My favorite language I'm learning about so far is JavaScript because I like making interactive websites. I also like working with Java and SQL Databases.
+- 🌱 I’m honing my web development skills, but I also have interest in back-end languages. I have worked with HTML5, CSS, JavaScript, jQuery, Java, PHP, MySQL, and Adobe Creative Cloud, specifically Dreamweaver, XD and Photoshop. I completed a CS in Web Development at my local Community College in the fall of 2021.
+- 💞️ I’m looking to collaborate on any types of projects that can grow my skills and teach me new things in the IT world.
 - 📫 Reach me by email at joshuaabauer@outlook.com if you want to know more about me!
 
 <!---
